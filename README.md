@@ -22,15 +22,15 @@ Memakai Link Yang Ada Di Issues Untuk Mengambil Sessionnya
 ---------
 
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/6285736178354">
+  <a href="https://wa.me/6281236167286">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:yanxiao021@gmail.com">
+  <a href="mailto:4ksanzz@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281231079387) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285960348568) 
 ---------
 
 ### a little about this bot
@@ -232,4 +232,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Fokus ID`](https://github.com/Fokusdotid) 
 
 ## ```Recode By ✏️```
-[![ImYanXiao](https://github.com/ImYanXiao.png?size=70)](https://github.com/ImYanXiao)
+[![ImYanXiao](https://github.com/4ksanzz.png?size=70)](https://github.com/4ksanzz)
